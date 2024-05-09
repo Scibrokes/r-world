@@ -2,9 +2,11 @@
 
 ---
 
+## 🌟秦孝公之商鞅变法
+
 <s>Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plot a shinning map. 札幌起义，扎根江户，放眼全球。今の商業形勢が苛烈な競争に立ち向かい、国家富強の道を歩まねばなりませんでした。</s>
 
-愚生使用 http://lchiffon.github.io/REmap 中的`REmap`计数|机数编程程序包，。
+借鉴明治维新史和咱们民智（Ming Tee）国民华文小学，愚生使用 http://lchiffon.github.io/REmap 中的`REmap`计数|机数编程程序包。拯救亚洲人，<s>它日像大日本帝国一样光芒四射</s>它日成为夜空中最亮的星🌟。
 
 ![](诸子百家考工记/项庄舞剑，志在东盟.gif)
 
@@ -56,7 +58,7 @@
 
 <img src="诸子百家考工记/Country_calling_codes_map.png" width="598"/>
 
-# 参考文献
+## 参考文献
 
 - [猫城：englianhu/REmap](https://github.com/englianhu/REmap)
 - [simplemaps](https://simplemaps.com/data/world-cities)
