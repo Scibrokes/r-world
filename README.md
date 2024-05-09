@@ -24,7 +24,7 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 春秋战国《*礼记•经解*》<br>
 孔子曰：『君子慎始，差若毫厘，缪以千里。』
 
-《赢家ξng黄氏江夏堂大秦赋 - 关雎🇬🇧✝芈拉》<br>
+《赢家ξng黄氏江夏堂大秦赋 - 🇨🇳关雎》<br>
 🚩关关雎鸠，在河之洲；<br>
 🚩窈窕淑女，君子好逑。<br>
 🚩高频量化，对冲基金；<br>
@@ -37,7 +37,7 @@ Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plo
 🚩百家争鸣，振兴中华。<br>
 🚩中科红旗，同舟共济；<br>
 🚩学海无涯，唯勤是岸。<br>
-🚩一带一路，习李经济；<br>
+🚩一带一路，杏林经济；<br>
 🚩大秦帝国，横跨七洲。<br>
 🚩史无前例，一统天下；<br>
 🚩不忘初心，方得始终。<br>
