@@ -2,11 +2,13 @@
 
 ---
 
-Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plot a shinning map. <s>札幌起义，扎根江户，放眼全球。今の商業形勢が苛烈な競争に立ち向かい、国家富強の道を歩まねばなりませんでした。</s>
+<s>Here I tried to apply `REmap` package via http://lchiffon.github.io/REmap to plot a shinning map. 札幌起义，扎根江户，放眼全球。今の商業形勢が苛烈な競争に立ち向かい、国家富強の道を歩まねばなりませんでした。</s>
+
+愚生使用 http://lchiffon.github.io/REmap 中的`REmap`计数|机数编程程序包，。
 
 ![](诸子百家考工记/项庄舞剑，志在东盟.gif)
 
-它日制作个从咱们赢家黄氏江夏堂「北京大学 Peking University」出发，点缀全球，咱们全球中华民族、越籍、越族都不要死，歼灭咱们东南亚所有巫贼巫婆回教徒。
+它日制作个文言文编程（在「大秦赋」操作系统`中的网络协议地址为起点，点缀全球，放眼天下。天下之大，包括银河系），从咱们赢家黄氏江夏堂「北京大学 Peking University」出发，点缀全球，咱们全球中华民族、越籍、越族都不要死，「商鞅变法」歼灭所有（包括大葱回教堂国家首府旗下）违反可兰经回教刑事法典断肢法的非法回教徒。
 
 <br>
 
